@@ -1,7 +1,7 @@
 # Project Mad Dash
 
 ##### Contents
-'''
+```
 1. Revisions/Versions
 2. Game Overview
 3. Features
@@ -12,4 +12,4 @@
 8. Controls
 9. Main Game
 10. Multiplayer
-'''
+```
