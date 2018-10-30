@@ -2,10 +2,35 @@
 
 ## Contents
 ```
-1. Revisions/Versions
-2. Game Overview
-3. Features
-4. The World
+ROAD RAGE
+1. DOCUMENT REVISIONS
+2. GAME OVERVIEW
+ 2.1 PHILOSOPHY
+  2.1.1 Revival of Awesome Features
+  2.1.2 Pure Arcade Handling
+ 2.2 COMMON QUESTIONS
+  2.2.1 What is the game?
+  2.2.2 Why create this game?
+  2.2.3 Where does the game take place?
+  2.2.4 What do I control?
+  2.2.5 What is the main focus?
+  2.2.6 What’s different?
+3. FEATURES IN ROAD RAGE
+ 3.1 GAMEPLAY OVERVIEW
+ 3.2 CUSTOMIZATION
+ 3.3 RACE TYPES
+  3.3.1 Circuit Racing
+  3.3.2 Sprint Race
+  3.3.3 Drag Race
+  3.3.4 Drift
+4. THE TOURNAMENT
+ 4.1 OVERVIEW
+  4.1.2 Setting
+ 4.2 MASSIVELY WORLDWIDE
+ 4.3 THE WORLD LOCATIONS
+  4.3.1 Overview
+  4.3.2 Race Locations
+  4.3.3 Day and Night
 5. Vehicles
 6. Characters
 7. User Interface
@@ -97,4 +122,42 @@ A drag race will be set on a straight-line track, where a number of drivers must
 
 This mode will have a tutorial dialogue box for any new players on their first race.
 
- 
+#### 3.3.4 Drift
+In this mode, the player does compete, but instead of racing for first, the player must drift to meet the target score, either bronze, silver or gold. By drifting, the player can accumulate points, but only if the car has reached a certain angle and if they are travelling at a fast-enough speed.
+
+The handling dynamic will change significantly for drift cars, rather than having the player adjust themselves or their car for drifting.
+
+## 4. The Tournament
+
+### 4.1 Overview
+The tournament in Road Rage sets out across the entire world, where multiple races takes place at once, though being threatened by a bizarre association and ultimately, the police.
+
+These races take place all over the globe, taking place either in the built up, challenging streets of London, the lovely winding roads of Italy or even the long Bonneville Salt Flats in the USA. Everyone can race… everywhere.
+
+#### 4.1.2 Setting 
+The game takes place in a modern-day setting, in a close but fictional representation of most continents, countries, cities and streets. Each country will vary but overall, it takes place now.
+
+### 4.2 Massively Worldwide
+Races can take place almost everywhere around the globe. Each mode has a track for each location, meaning that no matter what race, there will be a track for each location, either its own or part of a pre-existing race track. This means that there will be a huge amount of race tracks for the player to drive on.
+
+### 4.3 The World Locations
+
+#### 4.3.1 Overview
+As described above, the world will have many race tracks within each location in the world, with different types of tracks depending the mode being played. This means that there will be at least one mode dependent race track, to ensure a good variety for the players and us not making it too arcadey with only a few select tracks.
+
+The race tracks will be long and challenging, wide enough for the players to overtake and to match the handling model of the game. Certain drift tracks will be wider for drifting. These race tracks are going to be a mixture of authentic race tracks, street circuits and nature trails.
+
+#### 4.3.2 Race Locations
+Road Rage takes place all over the world, with the player being able to choose the country they want and choosing a race there, which is how the player “travels” in the game. These are some of the countries that will be featured:
+
+•	England – Quaint, a mix of car culture, but can be built up with traffic.
+•	Japan – Winding mountain roads, bright vibrant cities and where JDM originated from.
+•	Italy – Classic, vintage roads built for old sportscars and offers the best driving experience.
+•	Brazil – Featured here because it gets no love in driving games.
+•	Sweden – Mainly for the rally stages.
+
+More locations will be featured, as the game is developed.
+
+#### 4.3.3 Day and Night
+There is no active day and night change due to the shortness of the races. However, the player can race on any track in any given time zone. These will be sunrise, sunset (Like a sunrise, but a bit nicer), evening, midnight, morning and afternoon.
+
