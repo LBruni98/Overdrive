@@ -1,8 +1,8 @@
-# Road Rage
+# Overdrive
 
 ## Contents
 ```
-ROAD RAGE
+OVERDRIVE
 1. DOCUMENT REVISIONS
 2. GAME OVERVIEW
  2.1 PHILOSOPHY
@@ -15,7 +15,7 @@ ROAD RAGE
   2.2.4 What do I control?
   2.2.5 What is the main focus?
   2.2.6 What’s different?
-3. FEATURES IN ROAD RAGE
+3. FEATURES IN OVERDRIVE
  3.1 GAMEPLAY OVERVIEW
  3.2 CUSTOMIZATION
  3.3 RACE TYPES
@@ -61,7 +61,7 @@ Most modern racers have to rely on handling close to realistic, mimicking the fe
 
 #### 2.2.1 What is the game?
 
-Road Rage is a racing game where a rookie racer must make it to the top of an anything goes racing tournament, where the races are intense and chaotic, requiring the best to make it to first place.
+Overdrive is a racing game where a rookie racer must make it to the top of an anything goes racing tournament, where the races are intense and chaotic, requiring the best to make it to first place.
 
 #### 2.2.2 Why create this game?
 
@@ -83,11 +83,11 @@ The game is about a former movie stuntman, who enters the tournament after his c
 
 #### 2.2.6 What’s different?
 
-What Road Rage is aiming to do is to bring back the limitless type of customizations that you can make to your car and make it more suitable for a different type of race rather than just buy another car, however that is a choice too in this game.
+What Overdrive is aiming to do is to bring back the limitless type of customizations that you can make to your car and make it more suitable for a different type of race rather than just buy another car, however that is a choice too in this game.
 
 The game features more arcade like handling, mainly to reach out to more of an audience and appeal to all sorts of gamers and not be too difficult to the point of which it is not fun.
 
-## 3. Features in Road Rage
+## 3. Features in Overdrive
 
 ### 3.1 Gameplay Overview
 The game will focus on fast paced gameplay for any player, which should make the game in turn able for anyone to pick up and play. There will be an arcade element or feeling to the game to make the game achieve that all-round feeling.
@@ -107,7 +107,7 @@ Customization in this game will be available for all the cars in the game no mat
 In addition to this, cars will also have the ability to upgrade the performance, with engine, chassis, suspension, tires and nitrous. These upgrades will give the car added acceleration, speed, grip and handling, through 3-5 levels depending on the type of car due to the base performance and class. Nitrous allows players at the press of a button to give their car a burst of acceleration, again depending on the level; a low level nitrous system will only offer a quick burst whereas high level nitro will offer a longer, much powerful burst as well as go over the car’s top speed.
 
 ### 3.3 Race Types
-There are many different race types that will be available in Road Rage, each with their own objectives to complete the race. The player can choose to play:
+There are many different race types that will be available in Overdrive, each with their own objectives to complete the race. The player can choose to play:
 
 #### 3.3.1 Circuit Racing
 The most simple and recognized form of racing. Drivers race around a looped track which can vary depending on player choice to a number of laps. The driver wins if they have completed the maximum number of laps and crossed the finish line first.
@@ -130,7 +130,7 @@ The handling dynamic will change significantly for drift cars, rather than havin
 ## 4. The Tournament
 
 ### 4.1 Overview
-The tournament in Road Rage sets out across the entire world, where multiple races takes place at once, though being threatened by a bizarre association and ultimately, the police.
+The tournament in Overdrive sets out across the entire world, where multiple races takes place at once, though being threatened by a bizarre association and ultimately, the police.
 
 These races take place all over the globe, taking place either in the built up, challenging streets of London, the lovely winding roads of Italy or even the long Bonneville Salt Flats in the USA. Everyone can race… everywhere.
 
@@ -148,7 +148,7 @@ As described above, the world will have many race tracks within each location in
 The race tracks will be long and challenging, wide enough for the players to overtake and to match the handling model of the game. Certain drift tracks will be wider for drifting. These race tracks are going to be a mixture of authentic race tracks, street circuits and nature trails.
 
 #### 4.3.2 Race Locations
-Road Rage takes place all over the world, with the player being able to choose the country they want and choosing a race there, which is how the player “travels” in the game. These are some of the countries that will be featured:
+Overdrive takes place all over the world, with the player being able to choose the country they want and choosing a race there, which is how the player “travels” in the game. These are some of the countries that will be featured:
 
 •	England – Quaint, a mix of car culture, but can be built up with traffic.
 •	Japan – Winding mountain roads, bright vibrant cities and where JDM originated from.
